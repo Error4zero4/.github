@@ -61,11 +61,15 @@ Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All t
 
 <!--   Add members data here -->
 
-## If you have any queries reach out to Bauddhik-Geeks team 👨‍🎓
+## If you have any queries reach out to Error__404 team 👨‍🎓
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dhruvaop"><img src="https://avatars.githubusercontent.com/u/71749153?s=400&u=84276919c34e11f26f280384ea412a2433ffb3a2&v=4" width="100px;" alt=""/><br /><sub><b>Dhruva</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://avatars.githubusercontent.com/u/71749153?s=400&u=84276919c34e11f26f280384ea412a2433ffb3a2&v=4" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+    
+
+  </tr>
+</table>
    
 
 ## Thank you Note
@@ -73,9 +77,9 @@ Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All t
 ### We thank each and every individual who has joined us or will join for this mission to help folks around the world to achieve their dreams.
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thumbs.gfycat.com/EqualAfraidAntelope-max-1mb.gif">
+  <img alt="Thank You" width="250px" src="https://user-images.githubusercontent.com/71749153/145679154-f8afe5b8-7034-44af-b354-9dccc614868e.gif">
    <br>
-</p>
+
 
 <!-- badges here -->
 
