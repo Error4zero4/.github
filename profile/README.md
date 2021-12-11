@@ -1,9 +1,6 @@
 # 👨‍🎓 Error4zero4 
 
-
-<br>
-<p align="center">
-  <img align="top" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ferror-gifs&psig=AOvVaw325THUCz6nOpi2mNOm2P5P&ust=1639315330060000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjby9Lr2_QCFQAAAAAdAAAAABAN">
+  <img align="top" src="https://user-images.githubusercontent.com/71749153/145678258-e599508b-0066-45ac-805e-488818996960.gif">
 
 **Error__404** is a community cum team that was created is 2021 by [Dhruva Bhattacharya](https://github.com/dhruvaop) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
 The vision of our team is to help the student developers or professionals with the resources that will help them in their technical journey. We are also be participating in some hackathons In this vision of **Error__404** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
