@@ -1,4 +1,4 @@
 ---
-name : Rounak Bedi
-username : Rounak Bedi
+name : Naitik Sharma
+username : Naitik Sharma
 ---
