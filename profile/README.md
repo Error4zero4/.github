@@ -1,5 +1,7 @@
 # 👨‍🎓 Error4zero4 
 
+<br>
+<p align="center">
   <img align="top" src="https://user-images.githubusercontent.com/71749153/145678444-40650a1b-c382-463b-bc22-df28c6f9c262.gif">
 
 **Error__404** is a community cum team that was created is 2021 by [Dhruva Bhattacharya](https://github.com/dhruvaop) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
