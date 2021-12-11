@@ -1,1 +1,0 @@
-![Uploading Untitled design.gif…]()
