@@ -62,7 +62,7 @@ Join the E.D.I.T.H (Error__404) [Discord server](https://discord.gg/j9WeNgaPpC) 
 
 <!--   Add members data here -->
 
-## If you have any queries reach out to Error__404 team 👨‍🎓
+## If you have any queries reach out to Error__404 team 🛍️
 
 <table>
   <tr>
