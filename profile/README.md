@@ -27,8 +27,7 @@ The vision of our team is to help the student developers or professionals with t
 
 
 ## 👨‍🎓 Community socials:
-
--   [Twitter](https://twitter.com/BauddhikGeeks) 👈   
+   
 -   [Instagram](https://www.instagram.com/error_4zero4/) 👈
 
 ## AIM ✔️
