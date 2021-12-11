@@ -84,6 +84,6 @@ Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All t
 
 <!-- badges here -->
 
-![](https://img.shields.io/github/repo-size/Error4zero4/.github)
+![](https://img.shields.io/github/repo-size/Error4zero4/Welcome-to-error-404-/)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Error4zero4">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
