@@ -17,6 +17,7 @@ The vision of our team is to help the student developers or professionals with t
 -   [Yash Richhariyaa](https://github.com/yashrichhariyaa) 💬
 -   [Shubham Thakur](https://github.com/shubham-31-thakur) 💬
 -   [Yash Sen](https://github.com/yash31-sen) 💬
+-   [Rounak Bedi](https://github.com/Rounakbedi) 💬
 
 
 ✨ **Our Moderators:**
