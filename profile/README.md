@@ -10,11 +10,14 @@ The vision of our team is to help the student developers or professionals with t
 <a href="https://www.instagram.com/error_4zero4/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://twitter.com/BauddhikGeeks" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-⭐ **Bauddhik-Geeks Members**
+⭐ **Bauddhik-Geeks Team Members**
 
 -   [Dhruva Bhattacharya](https://github.com/dhruvaop) 💬
 -   [Naitik Sharma](https://github.com/Naitik234) 💬
 -   [Yash Richhariyaa](https://github.com/yashrichhariyaa) 💬
+-   [Shubham Thakur](https://github.com/shubham-31-thakur) 💬
+-   [Yash Sen](https://github.com/yash31-sen) 💬
+
 
 ✨ **Our Moderators:**
   
