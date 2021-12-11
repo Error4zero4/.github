@@ -29,7 +29,7 @@ The vision of our team is to help the student developers or professionals with t
 
 ## 👨‍🎓 Community socials:
    
--   [Instagram](https://www.instagram.com/error_4zero4/) 👈
+-   [Instagram](https://www.instagram.com/error__4zero4/) 👈
 
 ## AIM ✔️
 
