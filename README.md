@@ -1,2 +1,4 @@
-#
-![Untitled design](https://user-images.githubusercontent.com/71749153/145680557-cd71a3b6-4c97-4318-8f55-7f125f552786.gif)
+<br>
+<p align="center">
+  <img align="top" src="https://user-images.githubusercontent.com/71749153/145678444-40650a1b-c382-463b-bc22-df28c6f9c262.gif">
+</br>
