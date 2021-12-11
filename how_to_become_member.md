@@ -11,7 +11,7 @@ Now let's see it in detail:
 
 ## Join Bauddhik-Geeks Discord Server 🤝
 
-To join Bauddhik-Geeks disord server click 👉 [here](https://discord.gg/atzZYdNMDF)
+To join Bauddhik-Geeks disord server click 👉 [here](https://discord.gg/j9WeNgaPpC)
 
 ## Create issue using the issue template ✔
 
