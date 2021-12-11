@@ -66,6 +66,7 @@ Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All t
 <table>
   <tr>
     <td align="center"><a href="https://github.com/dhruvaop"><img src="https://avatars.githubusercontent.com/u/71749153?s=400&u=84276919c34e11f26f280384ea412a2433ffb3a2&v=4" width="100px;" alt=""/><br /><sub><b>Dhruva Bhattacharya</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Naitik234"><img src="https://avatars.githubusercontent.com/u/73165529?v=4" width="100px;" alt=""/><br /><sub><b>Naitik Sharma</b></sub></a></td>
     
 
   </tr>
