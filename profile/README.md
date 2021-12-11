@@ -75,8 +75,11 @@ Join the E.D.I.T.H (Error__404) [Discord server](https://discord.gg/j9WeNgaPpC) 
 </table>
 
 ## For Sponsership reach out to Error__404 team member 👨‍🎓
+<table>
+  <tr>
  <td align="center"><a href="https://github.com/Rounakbedi"><img src="https://avatars.githubusercontent.com/u/83304523?v=4" width="100px;" alt=""/><br /><sub><b>Rounak Bedi</b></sub></a></td>
-    
+    </tr>
+      </table>
    
 
 ## Thank you Note
