@@ -4,7 +4,7 @@
 <p align="center">
   <img align="top" src="https://user-images.githubusercontent.com/71749153/145678444-40650a1b-c382-463b-bc22-df28c6f9c262.gif">
 
-**Error__404** is a community cum team that was created is 2021 by [Dhruva Bhattacharya](https://github.com/dhruvaop) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
+**Error__404** is a team that was created is 2021 by [Dhruva Bhattacharya](https://github.com/dhruvaop) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
 The vision of our team is to help the student developers or professionals with the resources that will help them in their technical journey. We are also be participating in some hackathons In this vision of **Error__404** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
 
 <a href="https://www.instagram.com/error_4zero4/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="120px" width="120px" alt="Twitter" align="right"></a>
@@ -19,14 +19,14 @@ The vision of our team is to help the student developers or professionals with t
 ✨ **Our Moderators:**
   
 -   [Dhruva Bhattacharya](https://github.com/dhruvaop) 💬
--   [Naitik Sharma](https://github.com/Naitik234) 💬
--   [Yash Richhariyaa](https://github.com/yashrichhariyaa) 💬
+-   [Shubham Thakur](https://github.com/shubham-31-thakur) 💬
+
 
 
 ## 👨‍🎓 Community socials:
 
--   [Twitter](https://twitter.com/BauddhikGeeks) 👈
--   [Instagram](https://www.instagram.com/bauddhik_geeks) 👈
+-   [Twitter](https://twitter.com/BauddhikGeeks) 👈   
+-   [Instagram](https://www.instagram.com/error_4zero4/) 👈
 
 ## AIM ✔️
 
@@ -55,7 +55,7 @@ All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All the information will be shared here. 👈
+Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All the information will be shared here. 👈
 
 <!--   Add members data here -->
 
@@ -63,7 +63,7 @@ Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All t
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dhruvaop"><img src="https://github.com/dhruvaop.png" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+    <td align="center"><a href="https://github.com/dhruvaop"><img src="https://avatars.githubusercontent.com/u/71749153?s=400&u=84276919c34e11f26f280384ea412a2433ffb3a2&v=4" width="100px;" alt=""/><br /><sub><b>Dhruva</b></sub></a></td>
    
 
 ## Thank you Note
