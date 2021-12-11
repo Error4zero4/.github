@@ -1,17 +1,17 @@
 # How to become member❓
 
-To become a member in Bauddhik-Geeks Organization, you need to follow folowing steps:
+To become a member in Error__404 Organization, you need to follow folowing steps:
 
--  Join Bauddhik-Geeks Discord Server
+-  Join  E.D.I.T.H (Error__404) Discord Server
 -  Create issue using the issue template **"invite to organization"**
 -  Add yourself in Members.md file.
 
 Now let's see it in detail:
 
 
-## Join Bauddhik-Geeks Discord Server 🤝
+## Join  E.D.I.T.H (Error__404) Discord Server 🤝
 
-To join Bauddhik-Geeks disord server click 👉 [here](https://discord.gg/j9WeNgaPpC)
+To join E.D.I.T.H (Error__404) disord server click 👉 [here](https://discord.gg/j9WeNgaPpC)
 
 ## Create issue using the issue template ✔
 
@@ -31,15 +31,15 @@ To create an issue follow the following steps:
 
 To add yourself in Members.md file follow the following steps:
 
--  Fork the current repository **"Welcome-to-Bauddhik-Geeks"**
+-  Fork the current repository **".github"**
 -  Make a new branch.
--  Create **<github username.md>** file [in members folder](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/tree/main/members)
+-  Create **<github username.md>** file [in members folder](https://github.com/Error4zero4/.github/tree/main/members)
 -  Add the way other members have added and you can see the syntax below 👇
 
 ```
 ---
-name : Abhi Goyani
-username : abhigoyani
+name : Dhruva Bhattacharya
+username : dhruvaop
 ---
 ```
 -  Create pull request
