@@ -45,19 +45,19 @@ our aim is to provide:
 
 ## Members 👨‍
 
-All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md). Thank you for your support.
+All the members are [here](https://github.com/Error4zero4/.github/blob/main/MEMBERS.md). Thank you for your support.
 
 ## How to become member?
 
--   Join Bauddhik-Geeks Discord Server [here](https://discord.gg/atzZYdNMDF)
+-   Join E.D.I.T.H (Error__404) Discord Server [here](https://discord.gg/j9WeNgaPpC)
 -   Create issue on this repo using the issue template
--   Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md) 👈
--   For more detail click 👉 [how_to_become_member](https://github.com/Error4zero4/Welcome-to-error-404-/blob/main/how_to_become_member.md)
+-   Add yourself [here](https://github.com/Error4zero4/.github/blob/main/MEMBERS.md) 👈
+-   For more detail click 👉 [how_to_become_member](https://github.com/Error4zero4/.github/blob/main/how_to_become_member.md)
 -   🎊 Hurray! You're a member of such awesome community 🎉
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Join the [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All the information will be shared here. 👈
+Join the E.D.I.T.H (Error__404) [Discord server](https://discord.gg/j9WeNgaPpC) to get connected. All the information will be shared here. 👈
 
 <!--   Add members data here -->
 
