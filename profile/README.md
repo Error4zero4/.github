@@ -7,7 +7,7 @@
 **Error__404** is a team that was created is 2021 by [Dhruva Bhattacharya](https://github.com/dhruvaop) in [GYAN GANGA INSTITUTE OF TECHNOLOGY AND SCIENCE](https://ggits.org)⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
 The vision of our team is to help the student developers or professionals with the resources that will help them in their technical journey. We are also be participating in some hackathons In this vision of **Error__404** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
 
-<a href="https://www.instagram.com/error_4zero4/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.instagram.com/error__4zero4/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.twitter.com/error404ggits" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 ⭐ **Error__404 Team Members**
